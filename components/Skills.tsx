@@ -6,11 +6,11 @@ const Skills: FC = () => {
     <Box
       display='flex'
       flexDirection='column'
-      height='50vh'
+      height='100vh'
       alignItems='center'
       alignContent='center'
       justifyContent='center'
-      m={1}
+      sx={{ background: "cyan" }}
     >
       SKILLS
     </Box>

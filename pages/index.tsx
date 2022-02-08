@@ -7,7 +7,7 @@ import Skills from "../components/Skills";
 import Socials from "../components/Socials";
 const Home: NextPage = () => {
   return (
-    <Box sx={{ background: "#212021" }}>
+    <Box>
       {/* Banner */}
       <Banner />
 
